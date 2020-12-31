@@ -6,6 +6,7 @@ console.log("hello git... ");
 console.log("hi ...");
 console.log("saheb ...");
 console.log("saheb mim !!!...");
-
+console.log("saheb mim !!!...");
+alert("hi my gorgeous firends...");
 
 ///fun
